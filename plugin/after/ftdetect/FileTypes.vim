@@ -1,3 +1,6 @@
+" html
+autocmd! BufNewFile,BufRead *.html set filetype=html
+
 " Objective-C
 autocmd! BufNewFile,BufRead *.m set filetype=objc
 
